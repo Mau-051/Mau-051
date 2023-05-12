@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">👋hi my name is Mau</h1>
 
-<!--
-**Mau-051/Mau-051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a **Frontend developer** based in Guadalajara, Mexico. I discovered my love for coding two years ago when I was introduced to it by my mentor and wrote my first `Hello World` in JavaScript. Since then, I have dabbled in many languages and technologies, but my focus has been on JavaScript, CSS, and HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![image alt >](<./cutout-of-me-(no-outline).png>)
+
+#### contact and info
+
+💻here is my [LinkedIn](https://www.linkedin.com/in/mauricio-medrano-webdev/)
+
+📜and here my [Resume](/CV-Fernando-Mauricio2023.pdf)
+
+<style>
+img[alt$=">"] {
+  float: right;
+  width: 200px;
+}
+</style>
